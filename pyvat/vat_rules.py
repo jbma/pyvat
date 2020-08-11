@@ -234,7 +234,7 @@ VAT_RULES = {
     'BG': ConstantEuVatRateRules(20),
     'CY': ConstantEuVatRateRules(19),
     'CZ': ConstantEuVatRateRules(21),
-    'DE': ConstantEuVatRateRules(19),
+    'DE': ConstantEuVatRateRules(16),
     'DK': ConstantEuVatRateRules(25),
     'EE': ConstantEuVatRateRules(20),
     'GR': GrVatRules(),
